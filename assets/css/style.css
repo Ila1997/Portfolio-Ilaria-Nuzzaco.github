@@ -102,7 +102,7 @@ color: var(--text-color);
 }
 
 img {
- max-width: 100%;
+max-width: 100%;
 height: auto;
 display: block;
 }
@@ -276,7 +276,7 @@ color: royalblue;
 .skills__subtitle {
 color: var(--first-color);
 margin-bottom: var(--mb-4);
-text-shadow: 0 6px 4px var(--first-color);
+text-shadow: 0 5px 8px var(--first-color);
 }
 
 p {
@@ -361,7 +361,7 @@ row-gap: 2rem;
 .contact__subtitle {
 font-size: var(--normal-font-size);
 color: var(--dark-color);
-text-shadow: 0 1px 3px var(--dark-color);
+text-shadow: 0 1px 8px var(--dark-color);
 }
 
 .contact__text {
@@ -445,7 +445,7 @@ color: royalblue;
 /* Small devices */
 @media screen and (max-width: 320px) {
 .home__img {
- width: 200px;
+width: 200px;
 }
 }
 
