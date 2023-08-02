@@ -346,13 +346,11 @@ text-align: center;
 text-shadow: 0 10px 10px rgb(36, 79, 209);
 }
 
-.portfolio__img {
-width: 15rem;
-margin-left: auto;
-margin-right: auto;
-border-radius: 20rem;
+.portfolio__img{
+position: relative;
+overflow: hidden;
 }
-
+  
 /* ===== CONTACT =====*/
 
 .contact__container {
