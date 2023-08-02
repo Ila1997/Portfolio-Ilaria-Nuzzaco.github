@@ -304,12 +304,13 @@ width: 90%;
 }
 
 .skill-css {
-width: 80%;
+width: 85%;
 }
 
 .skill-javascript-basics {
-width: 45%;
+width: 80%;
 }
+
 
 /* ===== PORTFOLIO ===== */
 
@@ -346,7 +347,7 @@ text-shadow: 0 10px 10px rgb(36, 79, 209);
 }
 
 .portfolio__img {
-width: 10rem;
+width: 30rem;
 margin-left: auto;
 margin-right: auto;
 border-radius: 20rem;
