@@ -519,6 +519,9 @@ grid-template-columns: repeat(2, 1fr);
 grid-template-rows: repeat(2, 1fr);
 column-gap: 2rem;
 }
+.portfolio__img {
+width: 200px;
+}
 
 .contact__container {
 grid-template-columns: repeat(2, 1fr);
