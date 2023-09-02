@@ -290,7 +290,7 @@ width: var(--z-fixed);
 border-radius: 15px;
 }
 
-.skill-html, .skill-css, .skill-javascript {
+.skill-html, .skill-css, .skill-javascript, .skill-vue {
 background-color: var(--first-color);
 color: var(--text-color);
 padding: 1%;
@@ -307,7 +307,7 @@ width: 90%;
 width: 85%;
 }
 
-.skill-javascript {
+.skill-javascript, .skill-vue{
 width: 80%;
 }
 
