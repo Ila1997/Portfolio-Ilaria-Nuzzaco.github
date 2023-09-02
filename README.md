@@ -10,7 +10,7 @@
 </div>
 
 ![Immagine](https://i.ibb.co/PCNcqxr/Screenshot-7.png)
-# :link: *Project link: [City](https://ila1997.github.io/Portfolio-Ilaria-Nuzzaco.github/)*
+# :link: *Project link: [My portfolio](https://ila1997.github.io/Portfolio-Ilaria-Nuzzaco.github/)*
 
 You can also find it on netlify here: https://graceful-brioche-f4e94d.netlify.app
 
