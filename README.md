@@ -12,7 +12,7 @@
 ![Immagine](https://i.ibb.co/PCNcqxr/Screenshot-7.png)
 # :link: *Project link: [My portfolio](https://ila1997.github.io/Portfolio-Ilaria-Nuzzaco.github/)*
 
-You can also find it on netlify here: https://graceful-brioche-f4e94d.netlify.app
+You can also find it on netlify :link: [here](https://portfolio-ilaria-nuzzaco.netlify.app/)
 
 # *About the project:*
 This is my portfolio website, created with HTML & CSS and it can be used both from laptop and mobile.
