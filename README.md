@@ -22,4 +22,4 @@ It tells you a little bit about me, about my skills and little by little I'm upd
 It also has a "contact" section where you can send me and email if you have questions or if you're interested in my work.
 
 ______
-<p align="right">(<a href="#top">back to top:arrow_up_small:</a>)</p> 
+<p align="right">(<a href="#top">back to top :arrow_up_small:</a>)</p> 
